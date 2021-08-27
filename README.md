@@ -1,4 +1,4 @@
-{% if False %}
+<!-- {% if False %} -->
 
 # Temp-o-Rent
 
@@ -9,7 +9,7 @@ rent cars , At any time of the year this website offers endless possibilities, o
 to travel with a rental car , With this website you can compare deals across 11 cities in west
 bank.
 
-![Default Home View](__screenshots/home.png?raw=true "Title")
+![Default Home View](__img/main.png?raw=true "Main Page")
 
 ### Main features
 
