@@ -10,11 +10,18 @@ to travel with a rental car , With this website you can compare deals across 11 
 bank.
 
 ![Default Home View](img/main.png?raw=true "Main Page")
+~
 ![Default Home View](img/2.png?raw=true "#2 Page")
+~
 ![Default Home View](img/3.png?raw=true "#3 Page")
+~
+~
 ![Default Home View](img/4.png?raw=true "#4 Page")
+~
 ![Default Home View](img/5.png?raw=true "#5 Page")
+~
 ![Default Home View](img/7.png?raw=true "#6 Page")
+~
 ![Default Home View](img/9.png?raw=true "#7 Page")
 
 ### Main features
