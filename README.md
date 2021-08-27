@@ -1,10 +1,13 @@
 {% if False %}
 
+# Temp-o-Rent
+
 # Introduction
 
-The goal of this project is to provide minimalistic django project template that everyone can use, which _just works_ out of the box and has the basic setup you can expand on. 
-
-Template is written with django 1.11 and python 3 in mind.
+A Palestinian car rental website that connects renting agencies with users that wants to
+rent cars , At any time of the year this website offers endless possibilities, of enjoyment
+to travel with a rental car , With this website you can compare deals across 11 cities in west
+bank.
 
 ![Default Home View](__screenshots/home.png?raw=true "Title")
 
