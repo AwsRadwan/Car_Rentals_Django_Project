@@ -10,26 +10,32 @@ to travel with a rental car , With this website you can compare deals across 11 
 bank.
 
 ![Default Home View](img/main.png?raw=true "Main Page")
+![Default Home View](img/2.png?raw=true "#2 Page")
+![Default Home View](img/3.png?raw=true "#3 Page")
+![Default Home View](img/4.png?raw=true "#4 Page")
+![Default Home View](img/5.png?raw=true "#5 Page")
+![Default Home View](img/7.png?raw=true "#6 Page")
+![Default Home View](img/9.png?raw=true "#7 Page")
 
 ### Main features
 
-* Separated dev and production settings
+* Searsh Form in Main Page to filter Cars
 
-* Example app with custom user model
+* Responsive Design
 
 * Bootstrap static files included
 
-* User registration and logging in as demo
+* User registration and logging in
 
-* Procfile for easy deployments
+* Car details and reserve time
 
 * Separated requirements files
 
-* SQLite by default if no env variable is set
+* About us page for more details about the website
 
 # Usage
 
-To use this template to start your own project:
+A~~~~~~~~~~~~~~~~~~~~~~~~A
 
 ### Existing virtualenv
 
@@ -40,7 +46,7 @@ If your project is already in an existing python3 virtualenv first install djang
 And then run the `django-admin.py` command to start the new project:
 
     $ django-admin.py startproject \
-      --template=https://github.com/nikola-k/django-template/zipball/master \
+      --template=https://github.com/AwsRadwan/django-template/zipball/master \
       --extension=py,md \
       <project_name>
       
@@ -58,7 +64,7 @@ If you don't have django installed for python 3 then run:
 And then:
 
     $ python3 -m django startproject \
-      --template=https://github.com/nikola-k/django-template/zipball/master \
+      --template=https://github.com/AwsRadwan/django-template/zipball/master \
       --extension=py,md \
       <project_name>
       
@@ -67,7 +73,7 @@ After that just install the local dependencies, run migrations, and start the se
 
 {% endif %}
 
-# {{ project_name|title }}
+#  Temp-o-Rent | Car Rentals 
 
 # Getting Started
 
